@@ -1,6 +1,13 @@
 ## >NightCityBinder_
 <center><img width="1794" height="876" src="https://github.com/user-attachments/assets/38211865-3c62-460b-b6c5-b0621f3581d7" /></center>
 
+<p align="center">
+  <a href="https://github.com/Gacut/NightCityBinder/releases/latest"><img alt="Latest release" src="https://img.shields.io/github/v/release/Gacut/NightCityBinder?style=for-the-badge&amp;labelColor=1A151B&amp;color=F4F444" /></a>
+  <a href="https://github.com/Gacut/NightCityBinder/releases"><img alt="Android APK" src="https://img.shields.io/badge/Android-APK-7AEAF4?style=for-the-badge&amp;labelColor=1A151B&amp;logo=android&amp;logoColor=white" /></a>
+  <a href="https://github.com/Gacut/NightCityBinder/blob/main/LICENSE"><img alt="MIT License" src="https://img.shields.io/github/license/Gacut/NightCityBinder?style=for-the-badge&amp;labelColor=1A151B&amp;color=3AF700" /></a>
+  <a href="#run-locally"><img alt="Python and Kivy" src="https://img.shields.io/badge/Python-Kivy-FF637D?style=for-the-badge&amp;labelColor=1A151B&amp;logo=python&amp;logoColor=white" /></a>
+</p>
+
 NightCityBinder is an unofficial Android app for managing a Cyberpunk TCG card collection. It is written in Python with Kivy. No account is required; binders are stored locally on the device.
 
 ## Features
