@@ -1,5 +1,5 @@
 ## >NightCityBinder_
-<center><img width="1794" height="876" src="https://github.com/user-attachments/assets/38211865-3c62-460b-b6c5-b0621f3581d7" /></center>center>
+<center><img width="1794" height="876" src="https://github.com/user-attachments/assets/38211865-3c62-460b-b6c5-b0621f3581d7" /></center>
 
 NightCityBinder is an unofficial Android app for managing a Cyberpunk TCG card collection. It is written in Python with Kivy. No account is required; binders are stored locally on the device.
 
