@@ -1,17 +1,17 @@
 # NightCityBinder 1.0.0
 
-Pierwsze publiczne wydanie aplikacji do prowadzenia kolekcji kart Cyberpunk TCG. Wersja Androida: **1.0.18** (`versionCode 10018`), pakiet `com.nightcitybinder`.
+The first public release of the Cyberpunk TCG collection manager. Android app version: **1.0.18** (`versionCode 10018`); package ID: `com.nightcitybinder`.
 
-- Skanowanie numeru karty aparatem i lokalnym OCR.
-- Katalog z wyszukiwaniem, filtrami i podglądem ilustracji.
-- Lokalny binder z edycją liczby kart, stanu i wykończenia; import i eksport kopii zapasowych.
-- Orientacyjne ceny Cardmarket, wartość bindera oraz waluty EUR, USD i PLN.
-- Polski i angielski interfejs, bez konta, reklam i zakupów w aplikacji.
+- Scan card collector numbers with the camera using on-device OCR.
+- Search and filter the card catalog, and view card artwork.
+- Manage a local binder: edit quantities, conditions, and finishes; import and export backups.
+- View indicative Cardmarket prices and binder value in EUR, USD, or PLN.
+- Use the app in English or Polish, without an account, ads, or in-app purchases.
 
-Po instalacji pobierz katalog i ceny w **Ustawieniach**. Paczka instalacyjna nie zawiera ilustracji kart ani danych dostawców. Pierwsze pobranie może potrwać.
+After installation, download the catalog and prices from **Settings**. The installation package does not include card artwork or provider data. The first download may take a while.
 
-Przed zmianą ze starszej wersji testowej wyeksportuj binder. Starsze APK miały inny identyfikator (`org.nightcitybinder.nightcitybinder`), więc Android nie przeniesie ich danych do obecnej aplikacji automatycznie.
+Export your binder before moving from an older test build. Earlier APKs used a different package ID (`org.nightcitybinder.nightcitybinder`), so Android will not automatically transfer their data to the current app.
 
-APK z GitHuba jest podpisany kluczem upload autora. Wersja z Google Play może mieć inny certyfikat Play App Signing; przed przejściem między źródłami instalacji wyeksportuj binder i przygotuj się na ponowną instalację oraz import kopii.
+The GitHub APK is signed with the author's upload key. A Google Play installation may use a different Play App Signing certificate. Before switching installation sources, export your binder and be prepared to reinstall the app and import your backup.
 
-Projekt jest nieoficjalny i nie jest powiązany z CD PROJEKT RED, WeirdCo, Netdeck ani Cardmarket. Nazwy, grafiki i treści kart należą do odpowiednich właścicieli.
+This is an unofficial project and is not affiliated with CD PROJEKT RED, WeirdCo, Netdeck, or Cardmarket. Card names, artwork, and content belong to their respective owners.

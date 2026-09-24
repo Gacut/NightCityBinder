@@ -23,7 +23,7 @@ The installation package **does not include the card catalog or card artwork**. 
 
 ## Release
 
-GitHub release **1.0.0** corresponds to Android `versionName 1.0.18`, `versionCode 10018`, and package ID `com.nightcitybinder`. The APK can be installed outside Google Play. The AAB is intended for Play Console and cannot be installed directly on a phone. See the [release notes](RELEASE_NOTES_1.0.0.md) (Polish).
+GitHub release **1.0.0** corresponds to Android `versionName 1.0.18`, `versionCode 10018`, and package ID `com.nightcitybinder`. The APK can be installed outside Google Play. The AAB is intended for Play Console and cannot be installed directly on a phone. See the [release notes](RELEASE_NOTES_1.0.0.md).
 
 Export your binder before replacing an older test build. Earlier APKs used the package ID `org.nightcitybinder.nightcitybinder`, so Android treats the current app as a separate installation with separate local data.
 
