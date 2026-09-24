@@ -1,0 +1,4 @@
+# p4a's dependency discovery invokes pip with unversioned module names before
+# applying VERSION_* overrides. Constrain discovery AND installation so it cannot
+# append an incompatible Android binary wheel for charset-normalizer 3.5.1.
+charset-normalizer==3.4.2

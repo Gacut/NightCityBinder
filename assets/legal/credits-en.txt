@@ -1,0 +1,18 @@
+Credits and sources — NightCityBinder
+
+Project and development: Gacut — https://github.com/Gacut
+AI-assisted development with Codex — https://openai.com/pl-PL/codex/
+
+The book icon, splash and UI shapes were drawn in code for this project with Codex assistance, not downloaded from an icon pack. The UI was inspired by Cyberpunk 2077; Game UI Database was used as a visual reference, not as a source of bundled screenshots.
+
+Card artwork and content: Cyberpunk Trading Card Game creators and rights holders; publisher WeirdCo. Cyberpunk names and materials belong to their respective rights holders, including CD PROJEKT RED / R. Talsorian Games insofar as their rights apply. Illustrator credits visible on cards are retained in the artwork. Card illustrations are not attributed to the app developer. A complete verified illustrator list is not available for all variants.
+CD PROJEKT RED — https://www.cdprojektred.com
+WeirdCo — https://www.weirdco.net/home
+Catalog and image URLs: Netdeck — https://netdeck.gg
+Price data: Cardmarket — https://www.cardmarket.com
+Exchange rates: Narodowy Bank Polski — https://api.nbp.pl
+
+Technology: Python / Python Software Foundation and contributors; Kivy, PyJNIus and python-for-android / Kivy Team and contributors; SDL and contributors; AndroidX CameraX / Android Open Source Project; ML Kit / Google; OpenSSL, SQLite, libffi and dependencies.
+Roboto and Roboto Mono bundled with Kivy: Google and font contributors, Apache License 2.0. Other libraries retain their own licenses and attribution notices.
+
+Unofficial collector app. No affiliation or endorsement is claimed. Credits do not replace permission. Bundled Python license texts are available separately; a complete Android/native dependency audit is part of release preparation.

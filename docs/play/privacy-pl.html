@@ -1,0 +1,24 @@
+<!doctype html><html lang="pl"><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>NightCityBinder — Privacy</title><style>body{max-width:760px;margin:40px auto;padding:0 24px;font:18px/1.6 system-ui;color:#17202a}pre{white-space:pre-wrap;font:inherit}</style><main><pre>Polityka prywatności NightCityBinder
+Data: 24 września 2026
+
+Autor i kontakt
+NightCityBinder jest rozwijany przez Gacut. Kontakt z autorem w sprawach aplikacji i prywatności: https://github.com/Gacut.
+
+Dane na urządzeniu
+Aplikacja nie wymaga konta. Bindery, liczby kart, stan i wykończenie, nazwy importowanych binderów, ustawienia, katalog, grafiki oraz historia cen są zapisywane lokalnie. Autor nie prowadzi serwera z kolekcjami użytkowników. Aplikacja jest bezpłatna, bez reklam i zakupów.
+
+Aparat i skaner
+Dostęp do aparatu służy wyłącznie skanowaniu kart i jest udzielany w systemowym oknie uprawnień. Zdjęcie jest tymczasowo zapisywane w cache, a aplikacja próbuje usunąć je po rozpoznaniu lub zamknięciu skanera. Po przerwaniu procesu przez system plik może pozostać do wyczyszczenia cache. OCR Google ML Kit przetwarza zdjęcie i rozpoznany tekst na urządzeniu; aplikacja nie wysyła zdjęć ani tekstu OCR do autora lub dostawców katalogu.
+
+Google ML Kit
+SDK Google może przesyłać do Google informacje o urządzeniu i wersji aplikacji, identyfikator instalacji, dane o użyciu i wydajności OCR oraz błędach. Dane te służą diagnostyce, utrzymaniu i doskonaleniu SDK. Google opisuje transmisję jako szyfrowaną HTTPS. Nie są to same zdjęcia ani rozpoznany tekst. Szczegóły: https://developers.google.com/ml-kit/terms oraz https://policies.google.com/privacy. Aplikacja nie ma osobnego przełącznika telemetrii SDK. Aparat można wyłączyć w ustawieniach Androida; ręczne korzystanie z katalogu i bindera nie wymaga skanera.
+
+Połączenia sieciowe
+Katalog pochodzi z Netdeck, grafiki z adresów wskazanych w katalogu, ceny z publicznych plików Cardmarket, a kursy walut z NBP. Dostawcy widzą zwykłe dane żądania sieciowego, takie jak adres IP, czas i żądany zasób; pobranie grafiki ujawnia dostawcy jej identyfikator w adresie. Aplikacja nie przesyła do nich całego bindera. Pobieranie katalogu i cen uruchamiasz w Ustawieniach; każda z tych operacji ma godzinny limit prób. Odświeżanie w katalogu i na karcie korzysta z zapisanych plików. Zasady i okresy przechowywania logów dostawców pozostają poza kontrolą autora. Linki do GitHuba i Codex otwierają zewnętrzną przeglądarkę i podlegają zasadom tych serwisów.
+
+Import, eksport i usuwanie
+Pliki wybierasz przez systemowy selektor dokumentów. Eksport CSV zawiera zawartość wybranego bindera. Wybrany dostawca plików może być chmurowy; samodzielnie decydujesz, gdzie zapisujesz i komu udostępniasz plik. Usunięcie bindera nie usuwa automatycznie wcześniejszych eksportów. Do ich usuwania służy osobna funkcja usuwania pliku albo menedżer plików. Dane prywatne aplikacji można usunąć w ustawieniach Androida przez wyczyszczenie danych lub odinstalowanie. Nie usuwa to plików eksportowanych poza aplikację. Zachowanie kopii i transferu danych między urządzeniami zależy również od wersji aplikacji, Androida, producenta urządzenia i dostawcy plików.
+
+Kontakt i zmiany
+Kontaktując się przez GitHub, korzystasz z zewnętrznej platformy podlegającej jej polityce prywatności. Zgłoszenia publiczne mogą być widoczne dla innych. Nie zamieszczaj w nich danych osobowych ani prywatnych kolekcji. Pytania dotyczące aplikacji i prywatności kieruj przez profil autora: https://github.com/Gacut. Zmiany sposobu przetwarzania będą odzwierciedlane w aktualizacji tej polityki.
+</pre></main></html>

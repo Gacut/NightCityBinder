@@ -1,0 +1,23 @@
+NightCityBinder Privacy Policy
+Date: 24 September 2026
+
+Developer and contact
+NightCityBinder is developed by Gacut. App and privacy contact via the developer profile: https://github.com/Gacut.
+
+On-device data
+No account is required. Binders, quantities, conditions and finishes, imported binder names, settings, catalog, artwork and price history are stored locally. The developer does not operate a collection server. The app is free, with no ads or purchases.
+
+Camera and scanner
+Camera permission is requested through Android solely for scanning cards. A photo is temporarily saved in the cache; the app attempts to delete it after recognition or closing the scanner. An interrupted process may leave a file until the cache is cleared. Google ML Kit processes the image and recognized text on-device. The app does not send photos or OCR text to the developer or catalog providers.
+
+Google ML Kit
+Google's SDK may send Google device and app information, installation identifiers, OCR usage and performance metrics and errors for SDK diagnostics, maintenance and improvement. Google describes this transmission as encrypted with HTTPS. These metrics are not the photos or recognized text. See https://developers.google.com/ml-kit/terms and https://policies.google.com/privacy. The app provides no separate SDK telemetry switch. Camera access can be revoked in Android settings; manual catalog and binder use does not require scanning.
+
+Network requests
+The app downloads the catalog from Netdeck, images from URLs in that catalog, price files from Cardmarket and exchange rates from NBP. Providers receive ordinary request information, including IP address, time and requested resource. An image URL exposes the requested image identifier. The app does not upload your entire binder to these providers. Catalog and price downloads are started in Settings, with a separate one-hour limit on attempts for each. Refreshing the catalog or card view reads saved files. Provider log retention and policies are outside the developer's control. GitHub and Codex links open an external browser and are subject to those websites' policies.
+
+Files and deletion
+Android's document picker lets you select imports and export destinations. CSV exports contain the selected binder. A chosen file provider may use cloud storage; you choose where to store and share the file. Deleting a binder does not delete previous exports. Use the separate file deletion function or your file manager. Clearing app storage or uninstalling removes private app data, but not exported files. Backup and device transfer behavior also depends on the app version, Android, the device manufacturer and file provider.
+
+Contact and changes
+Contact through GitHub is handled by an external platform under its privacy policy. Public reports may be visible to other people. Do not post personal information or private collections. Direct app and privacy questions through the developer profile: https://github.com/Gacut. Changes in processing will be reflected in updates to this policy.

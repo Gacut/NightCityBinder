@@ -1,0 +1,103 @@
+{
+  "artifact": "NightCityBinder-0.2.4-debug.apk",
+  "sha256": "ac5150137239c6c75a6c4dc202f9c711be871ff4aa94e115c59dd8e70082657f",
+  "native_libraries": [
+    {
+      "library": "lib/arm64-v8a/libSDL2.so",
+      "bits": 64,
+      "elf_16kb": true
+    },
+    {
+      "library": "lib/arm64-v8a/libSDL2_image.so",
+      "bits": 64,
+      "elf_16kb": true
+    },
+    {
+      "library": "lib/arm64-v8a/libSDL2_mixer.so",
+      "bits": 64,
+      "elf_16kb": true
+    },
+    {
+      "library": "lib/arm64-v8a/libSDL2_ttf.so",
+      "bits": 64,
+      "elf_16kb": true
+    },
+    {
+      "library": "lib/arm64-v8a/libcrypto.so",
+      "bits": 64,
+      "elf_16kb": true
+    },
+    {
+      "library": "lib/arm64-v8a/libffi.so",
+      "bits": 64,
+      "elf_16kb": true
+    },
+    {
+      "library": "lib/arm64-v8a/libimage_processing_util_jni.so",
+      "bits": 64,
+      "elf_16kb": false
+    },
+    {
+      "library": "lib/arm64-v8a/libmain.so",
+      "bits": 64,
+      "elf_16kb": true
+    },
+    {
+      "library": "lib/arm64-v8a/libmlkit_google_ocr_pipeline.so",
+      "bits": 64,
+      "elf_16kb": true
+    },
+    {
+      "library": "lib/arm64-v8a/libpython3.14.so",
+      "bits": 64,
+      "elf_16kb": true
+    },
+    {
+      "library": "lib/arm64-v8a/libpythonbin.so",
+      "bits": 64,
+      "elf_16kb": true
+    },
+    {
+      "library": "lib/arm64-v8a/libsqlite3.so",
+      "bits": 64,
+      "elf_16kb": true
+    },
+    {
+      "library": "lib/arm64-v8a/libssl.so",
+      "bits": 64,
+      "elf_16kb": true
+    },
+    {
+      "library": "lib/armeabi-v7a/libimage_processing_util_jni.so",
+      "bits": 32,
+      "elf_16kb": false
+    },
+    {
+      "library": "lib/armeabi-v7a/libmlkit_google_ocr_pipeline.so",
+      "bits": 32,
+      "elf_16kb": false
+    },
+    {
+      "library": "lib/x86/libimage_processing_util_jni.so",
+      "bits": 32,
+      "elf_16kb": false
+    },
+    {
+      "library": "lib/x86/libmlkit_google_ocr_pipeline.so",
+      "bits": 32,
+      "elf_16kb": false
+    },
+    {
+      "library": "lib/x86_64/libimage_processing_util_jni.so",
+      "bits": 64,
+      "elf_16kb": false
+    },
+    {
+      "library": "lib/x86_64/libmlkit_google_ocr_pipeline.so",
+      "bits": 64,
+      "elf_16kb": true
+    }
+  ],
+  "elf_16kb": false,
+  "limits": "ELF only: also check bundletool, zipalign, signature, manifest and a 16 KB device."
+}

@@ -1,0 +1,14 @@
+.venv/
+.local/
+.buildozer/
+bin/
+dist/
+docs/previews/
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+*.pyc
+*.keystore
+*.jks
+local.properties
+.env
